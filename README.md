@@ -3,4 +3,4 @@ Complete prototipe app development using java and xlm focus on offering cultural
 
 # Contents
 1. report.pdf: file containing a complete report of the development process.
-2. 
+2. homeFarFromHome.zip: folder containing all the necessary files for the app development at Android Studio
